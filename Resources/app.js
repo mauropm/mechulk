@@ -1,6 +1,5 @@
 Titanium.include('/ui/buttons.js');
 Titanium.include('/ui/sounds.js');
-Titanium.include('/lib/listener.js');
 
 var win = Ti.UI.createWindow({
 	backgroundColor:'black',

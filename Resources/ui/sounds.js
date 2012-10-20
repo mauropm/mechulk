@@ -32,3 +32,13 @@ var player7 = Titanium.Media.createSound({
 	url:'/cc/sounds/shot.mp3',
 	allowBackground:true,
 });
+
+var player8 = Titanium.Media.createSound({
+	url:'/cc/sounds/wookie.mp3',
+	allowBackground:true,
+});
+
+var player9 = Titanium.Media.createSound({
+	url:'/cc/sounds/rain.mp3',
+	allowBackground:true,
+});
